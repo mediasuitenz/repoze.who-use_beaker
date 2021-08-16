@@ -16,7 +16,7 @@ DES = (
     "beaker.session cache implementation"
 )
 
-VERSION = '0.4'
+VERSION = '0.5'
 
 setup(
     name='repoze.who-use_beaker',
